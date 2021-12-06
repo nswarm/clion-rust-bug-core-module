@@ -1,3 +1,8 @@
+## CLion rust plugin bug example
+
+Filed here:
+https://github.com/intellij-rust/intellij-rust/issues/8224
+
 ## Environment
 
 * **IntelliJ Rust plugin version:** 0.4.160.4261-212
